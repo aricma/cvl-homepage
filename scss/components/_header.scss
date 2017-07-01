@@ -1,0 +1,21 @@
+#page-title {
+
+	border-bottom: 5px solid $color-bg-prim-dark;
+	padding: 40px 20px;
+	position: relative;
+	@include clearfix;
+
+	#page-title-cafe {
+		position: absolute;
+		margin: 0;
+		top: 18px;
+		left: calc(50% - 50.41px);
+		font-family: $font-stack-spec;
+		color: $color-text-sec;
+		z-index: 1;
+	}
+
+	#page-title-von-luck {
+		margin: 0 auto;
+	}
+}

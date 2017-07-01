@@ -1,0 +1,19 @@
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@function mobile-images($file) {
+  @return url($images-root + 'mobile/' + $file);
+}
+
+@function desktop-images($type, $file) {
+  @return url($images-root + 'desktop/' + $file);
+}
+
+@function tv-images($type, $file) {
+  @return url($images-root + 'tv/' + $file);
+}

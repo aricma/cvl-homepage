@@ -1,0 +1,26 @@
+
+// fonts
+
+$font-stack-prim: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-stack-spec: 'Dancing Script', cursive, 'Open Sans', sans-serif;
+
+// colors
+
+$tech-blue: rgb(25,140,250);
+$red: #E25252;
+$dark-red: #A23B3B;
+$white: #fff;
+$dark-grey: #3B3B3B;
+$light-grey: #DEDEDE;
+$very-light-grey: #FAFAFA;
+
+$color-text-prim: $white;
+$color-text-sec: $dark-grey;
+
+$color-bg-prim: $red;
+$color-bg-prim-dark: $dark-red;
+$color-bg-sec: $white;
+
+// images
+
+$images-root: '../src/images/' !default;

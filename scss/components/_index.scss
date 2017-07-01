@@ -1,0 +1,19 @@
+.placeholder-div-content {
+	height: 200px;
+	background-color: $color-bg-sec;
+	color: $color-text-sec;
+}
+
+.placeholder-div-separator {
+	height: 200px;
+	background-color: $color-bg-prim;
+	color: $color-text-prim;
+}
+
+@import "skew-div";
+@import "separator";
+@import "header";
+@import "galery";
+@import "menue";
+@import "map";
+@import "footer";

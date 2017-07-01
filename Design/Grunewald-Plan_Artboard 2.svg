@@ -1,0 +1,297 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #f2f2f2;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-10, .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-10, .cls-11, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-11, .cls-2, .cls-5 {
+        stroke-linejoin: round;
+      }
+
+      .cls-10, .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-10, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        fill: #e6e7e8;
+        stroke: #231f20;
+      }
+
+      .cls-10 {
+        fill: #ededed;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Grunewald-Plan</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect id="the_way" data-name="the way" class="cls-1" y="246.38" width="600" height="117.74"/>
+    <g id="Cafe">
+      <polygon class="cls-2" points="346.89 105.98 346.89 128.49 274.88 127.9 274.79 180.98 248.8 181.1 248.8 163.52 242.72 163.52 242.72 105.98 346.89 105.98"/>
+      <rect id="Window_bar" data-name="Window bar" class="cls-3" x="322.5" y="226.71" width="109.62" height="13.04"/>
+      <rect class="cls-3" x="468.5" y="230.71" width="32.62" height="13.04"/>
+      <polygon id="restricted" class="cls-4" points="383.29 100.98 383.29 128.49 464.36 128.49 464.36 145.67 297.43 145.67 297.43 172.26 275.22 172.25 274.88 127.9 346.89 128.49 347.23 100.98 223.67 100.98 223.67 33.68 506.9 33.68 506.9 100.98 383.29 100.98"/>
+      <g id="Vitrine">
+        <polygon class="cls-5" points="464.46 145.75 464.46 180.65 332.65 180.65 332.65 172.1 297.21 172.1 297.21 145.75 332.65 145.75 332.65 145.75 464.46 145.75"/>
+        <g id="Cubus">
+          <rect class="cls-3" x="301.49" y="148.25" width="26.88" height="19.29"/>
+          <line class="cls-3" x1="327.97" y1="148.9" x2="301.49" y2="167.55"/>
+          <line class="cls-3" x1="301.49" y1="148.25" x2="328.37" y2="167.55"/>
+        </g>
+        <rect class="cls-3" x="332.65" y="156.98" width="80.45" height="22.67"/>
+        <line class="cls-3" x1="347.7" y1="156.98" x2="347.7" y2="179.65"/>
+        <line class="cls-3" x1="363.69" y1="156.98" x2="363.69" y2="179.65"/>
+        <line class="cls-3" x1="380.83" y1="156.98" x2="380.83" y2="179.65"/>
+        <line class="cls-3" x1="397.29" y1="156.98" x2="397.29" y2="179.65"/>
+        <line class="cls-3" x1="380.83" y1="144.42" x2="380.83" y2="179.65"/>
+        <line class="cls-3" x1="413.1" y1="144.42" x2="413.1" y2="179.65"/>
+        <rect class="cls-3" x="413.1" y="154.62" width="44.95" height="25.03"/>
+        <rect class="cls-3" x="413.1" y="144.83" width="44.95" height="9.79"/>
+      </g>
+      <polygon class="cls-4" points="507 105.5 507 185.5 481.5 185.5 481.5 128 383.5 128 383.5 105.5 507 105.5"/>
+      <g id="zeitungsregal">
+        <line class="cls-3" x1="486.96" y1="106.14" x2="486.96" y2="185.05"/>
+        <line class="cls-3" x1="489.46" y1="105.97" x2="489.46" y2="184.88"/>
+        <line class="cls-3" x1="493.52" y1="105.97" x2="493.52" y2="184.88"/>
+        <line class="cls-3" x1="495.96" y1="106.13" x2="495.96" y2="185.04"/>
+        <line class="cls-3" x1="499.21" y1="106.21" x2="499.21" y2="185.13"/>
+        <line class="cls-3" x1="501.47" y1="105.97" x2="501.47" y2="184.88"/>
+      </g>
+      <rect id="Kaffeebar" class="cls-3" x="242.69" y="106.21" width="13.23" height="57"/>
+      <g id="Big_Fridge" data-name="Big Fridge">
+        <rect class="cls-6" x="481.5" y="190.5" width="25" height="25"/>
+        <rect class="cls-7" x="491.5" y="205.5" width="5" height="25" transform="translate(276 712) rotate(-90)"/>
+        <rect class="cls-7" x="491.5" y="175.5" width="5" height="25" transform="translate(306 682) rotate(-90)"/>
+      </g>
+      <g id="inside_Tables" data-name="inside Tables">
+        <g id="Square_Table_02" data-name="Square Table 02">
+          <rect id="Square_Table_inside" data-name="Square Table inside" class="cls-6" x="179.78" y="175.13" width="20.41" height="19.55"/>
+          <g id="Inside_Chair" data-name="Inside Chair">
+            <rect class="cls-8" x="202.53" y="177.53" width="13.93" height="13.93" transform="translate(394.98 -24.13) rotate(90.27)"/>
+            <rect class="cls-8" x="208.01" y="183.03" width="13.99" height="2.93" transform="translate(400.48 -29.65) rotate(90.26)"/>
+          </g>
+        </g>
+        <g id="Square_Table_01" data-name="Square Table 01">
+          <rect id="Square_Table_inside-2" data-name="Square Table inside" class="cls-6" x="179.78" y="216.13" width="20.41" height="19.55"/>
+          <g id="Inside_Chair-2" data-name="Inside Chair">
+            <rect class="cls-8" x="183.56" y="199.51" width="13.93" height="13.93" transform="translate(0.97 -0.89) rotate(0.27)"/>
+            <rect class="cls-8" x="183.53" y="199.51" width="13.99" height="2.93" transform="matrix(1, 0, 0, 1, 0.92, -0.87)"/>
+          </g>
+        </g>
+        <g id="Square_Table_03" data-name="Square Table 03">
+          <rect id="Square_Table_inside-3" data-name="Square Table inside" class="cls-6" x="179.78" y="153.13" width="20.41" height="19.55"/>
+          <g id="Inside_Chair-3" data-name="Inside Chair">
+            <rect class="cls-8" x="202.53" y="155.53" width="13.93" height="13.93" transform="translate(372.98 -46.23) rotate(90.27)"/>
+            <rect class="cls-8" x="208.01" y="161.03" width="13.99" height="2.93" transform="translate(378.48 -51.75) rotate(90.26)"/>
+          </g>
+        </g>
+        <g id="Square_Table_04" data-name="Square Table 04">
+          <rect id="Square_Table_inside-4" data-name="Square Table inside" class="cls-6" x="179.78" y="111.13" width="20.41" height="19.55"/>
+          <g id="Inside_Chair-4" data-name="Inside Chair">
+            <rect class="cls-8" x="203.53" y="113.53" width="13.93" height="13.93" transform="translate(331.99 -89.43) rotate(90.27)"/>
+            <rect class="cls-8" x="209.01" y="119.03" width="13.99" height="2.93" transform="translate(337.49 -94.95) rotate(90.26)"/>
+          </g>
+          <g id="Inside_Chair-5" data-name="Inside Chair">
+            <rect class="cls-8" x="183.51" y="134.51" width="13.93" height="13.93" transform="translate(380.28 283.84) rotate(-179.73)"/>
+            <rect class="cls-8" x="183.48" y="145.51" width="13.99" height="2.93" transform="matrix(-1, 0, 0, -1, 380.27, 294.82)"/>
+          </g>
+        </g>
+        <g id="Round_Table_02" data-name="Round Table 02">
+          <circle id="Round_Table" data-name="Round Table" class="cls-5" cx="240.7" cy="218.54" r="10.8"/>
+          <g id="Chair">
+            <g>
+              <path class="cls-9" d="M215.44,226.59a9,9,0,0,0,10.94,14.25l.41-.29,9.12-7-11-14.28-9.12,7Z"/>
+              <path class="cls-9" d="M226.39,240.86v0l.41-.29Z"/>
+              <path class="cls-9" d="M215.43,226.58l.4-.3-.38.32Z"/>
+            </g>
+            <g>
+              <path class="cls-9" d="M218.06,228.37a6,6,0,1,0,7.28,9.48l.41-.29,8.33-6.39-7.31-9.52L218.45,228l-.4.31Z"/>
+              <path class="cls-9" d="M225.36,237.87v0l.41-.29Z"/>
+            </g>
+            <line class="cls-9" x1="221.02" y1="238.99" x2="220.6" y2="242.18"/>
+            <line class="cls-9" x1="216.95" y1="236.76" x2="214.57" y2="238.59"/>
+            <line class="cls-9" x1="215.3" y1="232.98" x2="212.68" y2="232.64"/>
+          </g>
+          <g id="Chair-2" data-name="Chair">
+            <g>
+              <path class="cls-9" d="M264.28,228.55h0c-.11-.13-.22-.25-.34-.37Z"/>
+              <path class="cls-9" d="M251.56,241.26a9,9,0,0,0,12.7-12.7c-.11-.13-.22-.25-.34-.37l-8.13-8.13-12.73,12.73,8.13,8.13Z"/>
+              <path class="cls-9" d="M251.55,241.28l-.35-.35.37.34Z"/>
+            </g>
+            <path class="cls-9" d="M261.44,230h0l-.35-.35-7.42-7.42-8.48,8.48,7.42,7.42.35.35h0a6,6,0,1,0,8.45-8.45Z"/>
+            <line class="cls-9" x1="263.13" y1="234.12" x2="266.34" y2="234.12"/>
+            <line class="cls-9" x1="261.45" y1="238.45" x2="263.57" y2="240.57"/>
+            <line class="cls-9" x1="257.91" y1="240.57" x2="257.91" y2="243.22"/>
+          </g>
+        </g>
+        <g id="Round_Table_01" data-name="Round Table 01">
+          <circle id="Round_Table-2" data-name="Round Table" class="cls-5" cx="294.7" cy="216.54" r="10.8"/>
+          <g id="Chair-3" data-name="Chair">
+            <g>
+              <path class="cls-9" d="M317.43,228v0l-.37-.33Z"/>
+              <path class="cls-9" d="M306.06,242l-.39-.32.4.3Z"/>
+              <path class="cls-9" d="M306.07,241.95A9,9,0,0,0,317.42,228l-.37-.33-8.91-7.27-11.37,14,8.91,7.27Z"/>
+            </g>
+            <path class="cls-9" d="M314.75,229.72v0l-.39-.31-8.14-6.64-7.59,9.3,8.14,6.64.39.31v0a6,6,0,1,0,7.56-9.27Z"/>
+            <line class="cls-9" x1="316.85" y1="233.67" x2="320.05" y2="233.34"/>
+            <line class="cls-9" x1="315.62" y1="238.15" x2="317.94" y2="240.04"/>
+            <line class="cls-9" x1="312.32" y1="240.61" x2="312.58" y2="243.25"/>
+          </g>
+          <g id="Chair-4" data-name="Chair">
+            <g>
+              <path class="cls-9" d="M270.91,228.56a9,9,0,0,0,12.7,12.7l.37-.34,8.13-8.13-12.73-12.73-8.13,8.13C271.13,228.31,271,228.43,270.91,228.56Z"/>
+              <path class="cls-9" d="M270.89,228.55l.35-.35c-.12.12-.23.24-.34.37Z"/>
+              <path class="cls-9" d="M283.62,241.28h0l.37-.34Z"/>
+            </g>
+            <path class="cls-9" d="M282.19,238.44h0l.35-.35,7.42-7.42-8.49-8.49-7.42,7.42-.35.35h0a6,6,0,1,0,8.46,8.46Z"/>
+            <line class="cls-9" x1="278.05" y1="240.13" x2="278.05" y2="243.34"/>
+            <line class="cls-9" x1="273.72" y1="238.45" x2="271.6" y2="240.57"/>
+            <line class="cls-9" x1="271.6" y1="234.91" x2="268.95" y2="234.91"/>
+          </g>
+        </g>
+        <g id="Windowbar_bar_chairs" data-name="Windowbar bar chairs">
+          <rect class="cls-6" x="345.08" y="212.24" width="11.34" height="11.34" transform="translate(701.5 435.83) rotate(180)"/>
+          <rect class="cls-6" x="362.84" y="212.24" width="11.34" height="11.34" transform="translate(737.01 435.83) rotate(180)"/>
+          <rect class="cls-6" x="380.59" y="212.24" width="11.34" height="11.34" transform="translate(772.52 435.83) rotate(180)"/>
+          <rect class="cls-6" x="398.35" y="212.24" width="11.34" height="11.34" transform="translate(808.03 435.83) rotate(180)"/>
+        </g>
+        <g id="Kaffeebar_barchairs" data-name="Kaffeebar barchairs">
+          <rect class="cls-6" x="227.6" y="112.92" width="11.34" height="11.34" transform="translate(466.54 237.17) rotate(180)"/>
+          <rect class="cls-6" x="227.6" y="144.88" width="11.34" height="11.34" transform="translate(466.54 301.1) rotate(180)"/>
+          <rect class="cls-6" x="227.6" y="128.9" width="11.34" height="11.34"/>
+        </g>
+        <g id="Bench">
+          <polygon class="cls-3" points="191.47 88.97 191.47 107.79 171.96 107.79 171.96 236.35 153.53 236.35 153.53 88.97 191.47 88.97"/>
+          <polygon class="cls-3" points="191.47 88.97 191.47 93.93 158.5 93.93 158.5 236.37 153.54 236.37 153.54 88.97 191.47 88.97"/>
+        </g>
+      </g>
+      <g id="WC">
+        <g id="Toilette">
+          <rect class="cls-5" x="158.5" y="34.5" width="18.18" height="3.55"/>
+          <path class="cls-5" d="M174.46,48.91c0,4.53-3.08,9.09-6.87,9.09s-6.87-4.56-6.87-9.09a7.22,7.22,0,0,1,2.73-6h-.07V38h8.42v4.88h-.07A7.22,7.22,0,0,1,174.46,48.91Z"/>
+          <path class="cls-5" d="M173.35,49.13c0,3.43-2.58,7.54-5.76,7.54s-5.76-4.11-5.76-7.54,2.58-5.32,5.76-5.32S173.35,45.7,173.35,49.13Z"/>
+          <circle class="cls-5" cx="167.59" cy="46.92" r="2.66"/>
+        </g>
+        <g id="WC_Sink" data-name="WC Sink">
+          <path class="cls-7" d="M213,40a10.25,10.25,0,0,1-20.5,0,10,10,0,0,1,.1-1.37H212.9A10,10,0,0,1,213,40Z"/>
+          <path class="cls-7" d="M211,40a8.2,8.2,0,1,1-16.28-1.37h16.17A8.2,8.2,0,0,1,211,40Z"/>
+          <rect class="cls-7" x="192.5" y="34.5" width="20.5" height="4.1"/>
+          <circle class="cls-7" cx="202.75" cy="39.97" r="1.37"/>
+        </g>
+        <g id="Inside_Door" data-name="Inside Door">
+          <rect class="cls-7" x="212.5" y="61.5" width="2" height="22" transform="translate(427 145) rotate(180)"/>
+          <path class="cls-5" d="M192,83.5H213.5v-22C201.43,61.75,191.74,69.41,192,83.5Z"/>
+        </g>
+        <g id="Inside_Door-2" data-name="Inside Door">
+          <rect class="cls-7" x="170.5" y="70.5" width="2" height="22" transform="translate(90 253) rotate(-90)"/>
+          <path class="cls-5" d="M182.5,60V81.5h-22C160.75,69.43,168.41,59.74,182.5,60Z"/>
+        </g>
+        <g id="Inside_Door-3" data-name="Inside Door">
+          <rect class="cls-7" x="233.5" y="72.5" width="2" height="22" transform="translate(151 318) rotate(-90)"/>
+          <path class="cls-5" d="M223.5,62V83.5h22C245.24,71.43,237.59,61.74,223.5,62Z"/>
+        </g>
+      </g>
+      <g id="Walls">
+        <rect id="Wall_between_the_windows" data-name="Wall between the windows" class="cls-7" x="322.5" y="237.5" width="65.79" height="9"/>
+        <path id="Walls-2" data-name="Walls" class="cls-7" d="M143.5,24.5v221h66v-9h-56V89.5h38v-6h-3v-2h-6v2h-29v-50h29v27h6v-27h29v29h6v-29h31v66h-31v-16h-10v6h4v16h130v-6h-87v-66h247v66h-124v6h124v132h-6v9h15V24.5Z"/>
+        <g id="Entry">
+          <g id="Entry_Door_01" data-name="Entry Door 01">
+            <path class="cls-3" d="M433,250.5H465.5V282C447.54,282,433,271.17,433,250.5Z"/>
+            <rect class="cls-3" x="463.5" y="250.5" width="4" height="32" transform="translate(931 533) rotate(180)"/>
+          </g>
+          <g id="Entry_Door_01-2" data-name="Entry Door 01">
+            <path class="cls-3" d="M251,250.5H283.5V282C265.54,282,251,271.17,251,250.5Z"/>
+            <rect class="cls-3" x="281.5" y="250.5" width="4" height="32" transform="translate(567 533) rotate(180)"/>
+          </g>
+          <rect id="window_01" data-name="window 01" class="cls-10" x="388.33" y="247.1" width="113.14" height="3.4"/>
+          <rect id="Window_02" data-name="Window 02" class="cls-10" x="209.5" y="247.04" width="113.14" height="3.4"/>
+        </g>
+      </g>
+      <g id="Outside_Tables" data-name="Outside Tables">
+        <rect class="cls-11" x="219.53" y="271.73" width="20.41" height="19.55"/>
+        <g id="Inside_Chair-6" data-name="Inside Chair">
+          <rect class="cls-8" x="206.55" y="255.49" width="13.93" height="13.93" transform="translate(-106.21 151.77) rotate(-31.77)"/>
+          <rect class="cls-8" x="203.61" y="256.33" width="13.99" height="2.93" transform="translate(-104.2 149.58) rotate(-31.78)"/>
+        </g>
+        <g id="Inside_Chair-7" data-name="Inside Chair">
+          <rect class="cls-8" x="233.56" y="253.51" width="13.93" height="13.93" transform="translate(65.97 -48.12) rotate(13.23)"/>
+          <rect class="cls-8" x="234.77" y="253.65" width="13.99" height="2.93" transform="translate(64.74 -48.52) rotate(13.22)"/>
+        </g>
+        <rect class="cls-11" x="305.53" y="275.73" width="20.41" height="19.55"/>
+        <g id="Inside_Chair-8" data-name="Inside Chair">
+          <rect class="cls-8" x="292.55" y="259.49" width="13.93" height="13.93" transform="translate(-95.42 197.66) rotate(-31.77)"/>
+          <rect class="cls-8" x="289.61" y="260.33" width="13.99" height="2.93" transform="translate(-93.41 195.47) rotate(-31.78)"/>
+        </g>
+        <g id="Inside_Chair-9" data-name="Inside Chair">
+          <rect class="cls-8" x="319.56" y="257.51" width="13.93" height="13.93" transform="translate(69.17 -67.69) rotate(13.23)"/>
+          <rect class="cls-8" x="320.77" y="257.65" width="13.99" height="2.93" transform="translate(67.93 -68.08) rotate(13.22)"/>
+        </g>
+        <rect class="cls-11" x="398.53" y="275.73" width="20.41" height="19.55"/>
+        <g id="Inside_Chair-10" data-name="Inside Chair">
+          <rect class="cls-8" x="385.55" y="259.49" width="13.93" height="13.93" transform="translate(-81.48 246.63) rotate(-31.77)"/>
+          <rect class="cls-8" x="382.61" y="260.33" width="13.99" height="2.93" transform="translate(-79.47 244.46) rotate(-31.78)"/>
+        </g>
+        <g id="Inside_Chair-11" data-name="Inside Chair">
+          <rect class="cls-8" x="412.56" y="257.51" width="13.93" height="13.93" transform="translate(71.63 -88.96) rotate(13.23)"/>
+          <rect class="cls-8" x="413.77" y="257.65" width="13.99" height="2.93" transform="translate(70.4 -89.34) rotate(13.22)"/>
+        </g>
+        <rect class="cls-11" x="387.85" y="319.09" width="20.41" height="19.55" transform="translate(796.1 657.74) rotate(180)"/>
+        <g id="Inside_Chair-12" data-name="Inside Chair">
+          <rect class="cls-8" x="407.3" y="340.95" width="13.93" height="13.93" transform="translate(949.65 425.54) rotate(148.23)"/>
+          <rect class="cls-8" x="410.19" y="351.11" width="13.99" height="2.93" transform="matrix(-0.85, 0.53, -0.53, -0.85, 957.51, 432.56)"/>
+        </g>
+        <g id="Inside_Chair-13" data-name="Inside Chair">
+          <rect class="cls-8" x="380.3" y="342.93" width="13.93" height="13.93" transform="translate(684.21 779.11) rotate(-166.77)"/>
+          <rect class="cls-8" x="379.04" y="353.79" width="13.99" height="2.93" transform="translate(680.6 789.36) rotate(-166.78)"/>
+        </g>
+        <rect class="cls-11" x="439.85" y="319.09" width="20.41" height="19.55" transform="translate(900.1 657.74) rotate(180)"/>
+        <g id="Inside_Chair-14" data-name="Inside Chair">
+          <rect class="cls-8" x="459.3" y="340.95" width="13.93" height="13.93" transform="translate(1045.85 398.16) rotate(148.23)"/>
+          <rect class="cls-8" x="462.19" y="351.11" width="13.99" height="2.93" transform="matrix(-0.85, 0.53, -0.53, -0.85, 1053.72, 405.17)"/>
+        </g>
+        <g id="Inside_Chair-15" data-name="Inside Chair">
+          <rect class="cls-8" x="432.3" y="342.93" width="13.93" height="13.93" transform="translate(786.83 791) rotate(-166.77)"/>
+          <rect class="cls-8" x="431.04" y="353.79" width="13.99" height="2.93" transform="translate(783.22 801.25) rotate(-166.78)"/>
+        </g>
+        <rect class="cls-11" x="492.85" y="320.09" width="20.41" height="19.55" transform="translate(1006.1 659.74) rotate(180)"/>
+        <g id="Inside_Chair-16" data-name="Inside Chair">
+          <rect class="cls-8" x="512.3" y="341.95" width="13.93" height="13.93" transform="translate(1144.44 372.1) rotate(148.23)"/>
+          <rect class="cls-8" x="515.19" y="352.11" width="13.99" height="2.93" transform="matrix(-0.85, 0.53, -0.53, -0.85, 1152.3, 379.11)"/>
+        </g>
+        <g id="Inside_Chair-17" data-name="Inside Chair">
+          <rect class="cls-8" x="485.3" y="343.93" width="13.93" height="13.93" transform="translate(891.19 805.1) rotate(-166.77)"/>
+          <rect class="cls-8" x="484.04" y="354.79" width="13.99" height="2.93" transform="translate(887.59 815.35) rotate(-166.78)"/>
+        </g>
+        <rect class="cls-11" x="485.53" y="273.73" width="20.41" height="19.55"/>
+        <g id="Inside_Chair-18" data-name="Inside Chair">
+          <rect class="cls-8" x="472.55" y="257.49" width="13.93" height="13.93" transform="translate(-67.39 292.14) rotate(-31.77)"/>
+          <rect class="cls-8" x="469.61" y="258.33" width="13.99" height="2.93" transform="translate(-65.37 289.98) rotate(-31.78)"/>
+        </g>
+        <g id="Inside_Chair-19" data-name="Inside Chair">
+          <rect class="cls-8" x="499.56" y="255.51" width="13.93" height="13.93" transform="translate(73.48 -108.92) rotate(13.23)"/>
+          <rect class="cls-8" x="500.77" y="255.65" width="13.99" height="2.93" transform="translate(72.24 -109.29) rotate(13.22)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
